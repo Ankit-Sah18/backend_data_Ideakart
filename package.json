@@ -1,0 +1,25 @@
+{
+  "name": "backend-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sah-74/backend_data_Ideakart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sah-74/backend_data_Ideakart/issues"
+  },
+  "homepage": "https://github.com/Sah-74/backend_data_Ideakart#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.16"
+  }
+}
